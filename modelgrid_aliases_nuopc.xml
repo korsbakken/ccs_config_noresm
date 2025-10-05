@@ -265,7 +265,16 @@
     <grid name="ocnice">0.9x1.25</grid>
     <mask>null</mask>
   </model_grid>
-
+  
+  <!-- Fennoscandia0.05x0.1 grid -->
+  
+  <model_grid alias="Fennoscandia0.05x0.1">
+    <grid name="atm">Fennoscandia0.05x0.1</grid>
+    <grid name="lnd">Fennoscandia0.05x0.1</grid>
+    <grid name="ocnice">gx1v7</grid>
+    <mask>gx1v7</mask>
+  </model_grid>
+  
   <!-- f19 finite volume atm grid -->
 
   <model_grid alias="f19_tn14">

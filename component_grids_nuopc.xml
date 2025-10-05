@@ -47,6 +47,13 @@
     <mesh>$DIN_LOC_ROOT/share/meshes/fv1.9x2.5_141008_ESMFmesh.nc</mesh>
     <desc>1.9x2.5 is FV 2-deg grid:</desc>
   </domain>
+  <domain name="Fennoscandia0.05x0.1">
+    <nx>280</nx>  <ny>340</ny>
+    <!-- This is needed for PTS_MODE - it specifies the xml variable PTS_DOMAINFILE -->
+    <file>$DIN_LOC_ROOT/cicero_mods/share/domains/domain.lnd.Fennoscandia0.05x0.1_3minx3min.210224.nc</file>
+    <mesh>$DIN_LOC_ROOT/cicero_mods/share/meshes/ESMFmesh_Fennoscandia0.05x0.1_hist_78pfts_CMIP6_simyr2005_c251003.nc</mesh>
+    <desc>Roughly 5km regional grid for Fennoscandia -- only valid for DATM/CLM compset</desc>
+  </domain>0
   <domain name="4x5">
     <nx>72</nx> <ny>46</ny>
     <!-- This is needed for PTS_MODE - it specifies the xml variable PTS_DOMAINFILE -->
