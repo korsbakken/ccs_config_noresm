@@ -272,7 +272,7 @@
     <grid name="atm">Fennoscandia0.05x0.1</grid>
     <grid name="lnd">Fennoscandia0.05x0.1</grid>
     <grid name="ocnice">Fennoscandia0.05x0.1</grid>
-    <mask>null</mask>
+    <mask>Fennoscandia0.05x0.1</mask>
   </model_grid>
   
   <!-- f19 finite volume atm grid -->
