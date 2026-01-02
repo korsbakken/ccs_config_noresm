@@ -56,7 +56,7 @@
   </domain>
   <domain name="NorwayRect_0.125x0.125">
     <nx>216</nx>  <ny>111</ny>
-    <mesh>$DIN_LOC_ROOT/cicero_mods/share/meshes/ESMFmesh_NorwayRect_0.125x0.125_nomask_c251031.nc</mesh>
+    <mesh>$DIN_LOC_ROOT/cicero_mods/share/meshes/ESMFmesh_NorwayRect_0.125x0.125_lndmask_c251031.nc</mesh>
     <desc>0.125x0.125 degree rectangular grid containing Norway and all rivers that drain from Norway -- only valid for DATM/CLM compset</desc>
   </domain>
   <domain name="4x5">
