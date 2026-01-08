@@ -284,6 +284,15 @@
     <mask>NorwayRect_0.125x0.125</mask>
   </model_grid>
 
+  <!-- NorwayRect_0.1x0.1 grid -->
+
+  <model_grid alias="NorwayRect0.1">
+    <grid name="atm">NorwayRect_0.1x0.1</grid>
+    <grid name="lnd">NorwayRect_0.1x0.1</grid>
+    <grid name="ocnice">NorwayRect_0.1x0.1</grid>
+    <mask>null</mask>
+  </model_grid>
+
   <!-- f19 finite volume atm grid -->
 
   <model_grid alias="f19_tn14">
