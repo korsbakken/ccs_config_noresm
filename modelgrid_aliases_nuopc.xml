@@ -273,15 +273,6 @@
     <mask>null</mask>
   </model_grid>
   
-  <!-- Fennoscandia0.05x0.1 grid -->
-  
-  <model_grid alias="Fennoscandia0.05x0.1">
-    <grid name="atm">Fennoscandia0.05x0.1</grid>
-    <grid name="lnd">Fennoscandia0.05x0.1</grid>
-    <grid name="ocnice">gx1v7</grid>
-    <mask>gx1v7</mask>
-  </model_grid>
-
   <!-- NorwayRect_0.125x0.125 grid -->
 
   <model_grid alias="NorwayRect0.125">
