@@ -279,7 +279,7 @@
     <grid name="atm">Fennoscandia0.05x0.1</grid>
     <grid name="lnd">Fennoscandia0.05x0.1</grid>
     <grid name="ocnice">Fennoscandia0.05x0.1</grid>
-    <mask>Fennoscandia0.05x0.1</mask>
+    <mask>null</mask>
   </model_grid>
 
   <!-- NorwayRect_0.125x0.125 grid -->
